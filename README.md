@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Elvis 
-- 👀 I’m interested in programning 
-- 🌱 I’m currently learning PDS and PDI
-- 💞️ 
-- 📫 
+- 👋 Hi, I’m Elvis de la Torre,I am a mechatronic engineering student.
+- 👀 I’m interested in microcontrollers programning.
+- 🌱 I’m currently learning PDS and PDI wiht Raspberry pi.
+
 
 <!---
 dvsivle/dvsivle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
