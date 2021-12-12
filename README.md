@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis de la Torre,I am a mechatronic engineering student.
 - 👀 I’m interested in microcontrollers programning.
-- 🌱 I’m currently learning PDS and PDI wiht Raspberry pi.
+- 🌱 I’m currently learning programing in matlab.
 
 
 <!---
