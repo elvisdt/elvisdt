@@ -1,8 +1,8 @@
--👋 Hola, soy Elvis de la Torre, estudiante de ingeniería mecatrónica con especialización en Robótica Industrial y Electrónica Industrial.
--🚀 He liderado proyectos de desarrollo de satélites enlatados y he participado en investigaciones en el área de biorobótica.
--💻 Tengo habilidades avanzadas en programación con Python y Matlab, programación de microcontroladores como Arduino, ARM STM32, PIC, y estoy familiarizado con SQL, C/C++, AutoCAD, Inventor, Fusion 360, programación de PLCs, programación de Raspberry Pi y diseño electrónico (Eagle, KiCad).
--🌱 Actualmente, estoy buscando oportunidades para aplicar mis habilidades en el mundo real y aprender de profesionales experimentados en el campo.
--👀 Estoy particularmente interesado en Robótica, Automatización y Control, Diseño e Ingeniería de Productos Electrónicos, Análisis de Datos, y áreas de Investigación y Desarrollo.
+-	👋 Hi, I'm Elvis de la Torre, a mechatronic engineering student specializing in Industrial Robotics and Industrial Electronics.
+-	🚀 I have led CanSat development projects and participated in research in the area of biorobotics.
+-	💻 I have advanced skills in programming with Python and Matlab, programming of microcontrollers like Arduino, ARM STM32, PIC, and I'm familiar with SQL, C/C++, AutoCAD, Inventor, Fusion 360, PLC programming, Raspberry Pi programming, and electronic design (Eagle, KiCad).
+-	🌱 Currently, I'm looking for opportunities to apply my skills in the real world and learn from experienced professionals in the field.
+-	👀 I'm particularly interested in Robotics, Automation and Control, Design and Engineering of Electronic Products, Data Analysis, and Research and Development areas.
 
 <!---
 dvsivle/dvsivle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
