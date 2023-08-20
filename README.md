@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Elvis and I'm a a mechatronic engineering student, from Peru</p>
+<p align="left">My name is Elvis and I'm a mechatronic engineering student from <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru_%28state%29.svg" alt="Peru Flag" height="15" />.</p>
+
 
 ###
 
