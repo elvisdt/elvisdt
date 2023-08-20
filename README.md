@@ -19,7 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://la.mathworks.com/" height="40" alt="matlab logo"  />
+  <a href="[url_for_matlab](https://la.mathworks.com/)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  </a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
