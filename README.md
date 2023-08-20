@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <a href="[url_for_matlab](https://la.mathworks.com/)">
+  <a href="https://la.mathworks.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   </a>
   <img width="12" />
