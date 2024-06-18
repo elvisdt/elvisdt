@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 I am Mechatronics Engineering at the Universidad Peruana de Ciencias Aplicadas (UPC).<br>🚀 I worked on CanSat development projects and biorobotics research.<br>👀 Interested in Robotics, Automation, Control, Electronic Product Design, Data Analysis, and R&D.<br>🎮 I like to play Valorant.</p>
+<p align="left">📚 I am Mechatronics Engineering at the Universidad Peruana de Ciencias Aplicadas (UPC).<br>
+  🚀 I worked on CanSat development projects and biorobotics research.<br>
+  👨‍💻 I work as a firmware developer for IOT solutions.<br>
+  👀 Interested in Robotics, Automation, Control, Electronic Product Design, Data Analysis, and R&D.<br>
+  🎮 I like to play Valorant.</p>
 
 ###
 
