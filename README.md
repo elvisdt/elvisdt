@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/">
-    <img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" height="40" alt="esp-idf logo"  />
+    <img src="https://th.bing.com/th/id/R.22804e4bb5c240b801a75b8481b3ebd9?rik=LKxEAJhvF3o9qw&riu=http%3a%2f%2fpic.danji100.com%2fupload%2f2023-5%2f2023052215362097239.png&ehk=mlDkmBShWFR227DM5FBndZjMLj1nkv1SqHomNhpnH2U%3d&risl=&pid=ImgRaw&r=0" height="40" alt="esp-idf logo"  />
   </a>
   <img width="12" />
   <a href="https://la.mathworks.com/">
